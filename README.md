@@ -1,6 +1,8 @@
 # WordCounter_Application
  
- A WordCounter is an amazing online tool to check your word count. The number of words will increase or decrease as you type, delete and edit them. 
+ A WordCounter is an amazing online tool to check your word count. 
+ 
+ The number of words will increase or decrease as you type, delete and edit them. 
  
  You can copy and paste text in the editor. 
  
