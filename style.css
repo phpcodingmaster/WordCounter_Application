@@ -1,0 +1,47 @@
+
+h1,h2,h3,h4,h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.row.wordcount-app {
+    margin-top: 30px !important;
+}
+
+.ql-editor {
+    font-size: 20px;
+    height: 195px;
+}
+
+a.brand-logo {
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.class.col.s12.m3.total-words-div {
+    background-color: #0D47A1 !important;
+    color: #fff !important;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .class.col.s12.m3.total-words-div {
+        margin-top: 50px;
+    }
+  }
+
